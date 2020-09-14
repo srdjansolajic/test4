@@ -1,0 +1,17 @@
+.div-flag{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
+
+  .name{
+    width: 19%;
+    height: 300px;
+    text-align: center;
+    padding: 8px;
+    margin-bottom: 50px;
+    transition: transform .2s;
+    background-color: rgba(255,255,255,0.5);
+  }
